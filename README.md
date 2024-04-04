@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soheean1370
 - 👀 I’m interested in blueberry creamcheese bagel 🥯 
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on justice_chan
+- 💞️ I’m looking to collaborate on justice_chan[(https://github.com/JEuichan)]
 - ⚡ Fun fact: I'm in relationship with FAKER
 
 <!---
