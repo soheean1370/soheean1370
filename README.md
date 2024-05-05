@@ -2,7 +2,6 @@
 - 👀 I’m interested in blueberry creamcheese bagel 🥯 
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on [justice_chan](https://github.com/JEuichan)
-- ⚡ Fun fact: I'm in relationship with FAKER
 
 <!---
 soheean1370/soheean1370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
