@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=F4CCCC&height=200&section=header&text=SOHEE%20GITHUB&fontSize=70&fontColor=F3F6F4" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=F4CCCC&height=200&section=header&text=SOHEE's%20GITHUB&fontSize=70&fontColor=F3F6F4" />
   
   <h3>:sparkles: Studying :sparkles: </h3> </a><br/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
