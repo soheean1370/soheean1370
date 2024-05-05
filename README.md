@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /><br/>
   <h3>:star2: Tools :star2:</h3> </a><br/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=#visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" /><br/><br/>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=soheean1370&theme=tokyonight-duo)](https://git.io/streak-stats)<br/><br/>
