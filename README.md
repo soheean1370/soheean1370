@@ -9,7 +9,16 @@
   <h3>:star2: Tools :star2:</h3> </a><br/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" />
+  <br/>
+
+
+  <h3>💙 Library 💙</h3> </a><br/>
+  <!--PyTorch-->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <!--TensorFlow-->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <br/>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=soheean1370&theme=tokyonight-duo)](https://git.io/streak-stats)<br/><br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soheean1370)](https://solved.ac/soheean1370)
