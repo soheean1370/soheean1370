@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <br/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=soheean1370&theme=tokyonight-duo)](https://git.io/streak-stats)<br/><br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soheean1370)](https://solved.ac/soheean1370)
 </div>
 
 
