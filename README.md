@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 **CS Student @ Pusan National University**  
+🎓 **CS Student @ Pusan National University**   
 🔍 **Passionate about NLP, Deep Learning, and AI Research**  
 🚀 **Building AI-powered solutions**: Sentiment Analysis, Text Classification, Chatbots  
 💡 **Exploring**: LLMs, Reinforcement Learning, AI Ethics  
