@@ -10,7 +10,7 @@
 
 ### 🍡 front view <sub><sup>about me</sup></sub>
 
-- 🎓 CS @ Pusan National University
+- 🎓 CS @ Pusan National University 
 - 📷 Curious about turning **one photo into many viewpoints**, while keeping the face the same person
 - 🌱 Learning diffusion, NeRF, and 3D Gaussian Splatting, one paper at a time
 - 🧪 Learning computer vision with the people at [PNU CV Lab](https://pnucvlab.github.io)
